@@ -1,0 +1,8 @@
+/.classpath
+/logs/
+/versions/
+/bin/
+/discord_access_token.txt
+/.settings/
+/.project
+/.gradle/

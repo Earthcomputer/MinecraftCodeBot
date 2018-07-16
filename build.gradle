@@ -1,0 +1,13 @@
+
+apply plugin: 'java'
+apply plugin: 'eclipse'
+apply plugin: 'idea'
+
+repositories {
+	jcenter()
+}
+
+dependencies {
+	compile 'com.discord4j:Discord4J:2.10.1'
+	compile 'org.ow2.asm:asm-debug-all:5.0.4'
+}
